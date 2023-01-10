@@ -212,30 +212,7 @@ function exercice6()
         else{
             clearInterval(intervalId);
         }
-
-
     }, 0.2*1000);
-
-        
-
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
 }
 
 function initCanvasSize()
